@@ -4,6 +4,8 @@ This is a simple full-stack task manager I built using **Node.js + Express** for
 
 It handles authentication, task CRUD, filtering, and a few UX things like toast notifications and auto token refresh.
 
+![Task Management System Dashboard](https://github.com/user-attachments/assets/16860dbc-3b12-48d0-8345-71328429cdd1)
+
 ---
 
 ## What you need before running this
